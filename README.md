@@ -1,7 +1,7 @@
 # BinarySearchTree
 
-IDE: VS Code and Unix
-Programming Language: C++
+- IDE: VS Code and Unix
+- Programming Language: C++
 
 Problem: We want to be able to create and implement a binary search tree to compare data across text files.
 
